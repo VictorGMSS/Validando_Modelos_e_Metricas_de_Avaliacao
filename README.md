@@ -2,7 +2,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VictorGMSS/Machine_Learning_clasificacao_validando_modelos_e_metricas_de_avaliacao/blob/main/metricas_de_avaliacao.ipynb)
 
-Projeto prático desenvolvido durante o curso **"Classificação: Validação de modelos e métricas de avaliação"**. O objetivo deste repositório é melhorar a identificação de clientes **inadimplentes** de uma empresa de empréstimo de automóveis, aplicando métodos de validação (**hold out** e **validação cruzada**), diferentes **métricas de avaliação** e técnicas de **balanceamento de dados** (oversampling e undersampling) dentro de um **pipeline** de validação.
+Projeto prático desenvolvido durante o curso na **"Alura"**. O objetivo deste repositório é melhorar a identificação de clientes **inadimplentes** de uma empresa de empréstimo de automóveis, aplicando métodos de validação (**hold out** e **validação cruzada**), diferentes **métricas de avaliação** e técnicas de **balanceamento de dados** (oversampling e undersampling) dentro de um **pipeline** de validação.
 
 ---
 
